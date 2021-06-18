@@ -1,16 +1,19 @@
 
 
 
-.grid > div {
+.wrapper > div{
 
-   background-color: #ccc ; 
-   border:solid 1px  #999;
-    
+    background-color: rgb(145, 111, 60);
+    padding: 1em;
 }
 
+.wrapper >div:nth-child(odd){
 
-.grid {
+    background: burlywood;
+}
+
+.wrapper{
+
     display: grid;
-    grid-template-columns: 20% 60% 20%;
-    grid-template-rows: 20px  50px;
-  }
+    grid-template-columns: 40% 30% 30%;
+}
