@@ -1,0 +1,16 @@
+
+
+
+.grid > div {
+
+   background-color: #ccc ; 
+   border:solid 1px  #999;
+    
+}
+
+
+.grid {
+    display: grid;
+    grid-template-columns: 20% 60% 20%;
+    grid-template-rows: 20px  50px;
+  }
