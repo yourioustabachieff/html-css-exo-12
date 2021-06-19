@@ -11,13 +11,165 @@ body{
 
 .grid > div {
 
-    background: #ccc;
+   
     border: solid 1px #999 ;
 }
 
 .grid{
 
     display: grid;
-    grid-template-columns: 33% 22% 11% 11% 11% 2% 20%;
-    grid-template-rows: 50px 50px 50px 50px 50px ;
+    grid-template-columns: 33% 22% 11% 11% 2% 20%;
+    grid-template-rows: 50px 100px 100px 250px 50px ;
 }
+
+
+.case1{
+
+    background-color: greenyellow;
+
+}
+
+.case2{
+
+    background-color: greenyellow;
+
+}
+
+.case3{
+
+    background-color: greenyellow;
+
+}
+
+.case4{
+
+    background-color: greenyellow;
+
+}
+
+.case5{
+
+    background-color: greenyellow;
+
+}
+
+.case6{
+
+    background-color:blue;
+    
+}
+
+.case7{
+
+    background-color:red;
+}
+
+.case8{
+ 
+    background-color:orange;
+    
+}
+
+.case9{
+
+    background-color:orange;
+    
+}
+
+.case10{
+
+       background-color:grey;
+}
+
+.case11{
+
+    background-color:grey;
+}
+
+.case12{
+
+    background-color:grey;
+}
+
+.case13{
+    background-color:red;
+
+}
+
+.case14{
+
+    background-color:orange;
+}
+
+.case15{
+
+    background-color: green;
+}
+
+.case16{
+
+    background-color: green;
+}
+
+.case17{
+
+    background-color:red;
+}
+
+.case18{
+
+    background-color:red;
+}
+
+.case19{
+
+    background-color: darkgrey;
+}
+
+.case20{
+
+    background-color: darkgrey;
+    
+    
+}
+
+.case21{
+    background-color: darkgrey;
+    
+}
+
+.case22{
+
+    background-color: darkgrey;
+}
+
+.case23{
+
+    background-color: darkgrey;
+}
+
+.case24{
+
+    background-color: darkgrey;
+}
+
+.case25{
+
+    background-color: darkgrey;
+}
+
+.case26{
+
+    background-color: darkgrey;
+}
+
+.case27{
+
+    background-color: darkgrey;
+}
+
+.case28{
+
+    background-color: darkgrey;
+}
+
